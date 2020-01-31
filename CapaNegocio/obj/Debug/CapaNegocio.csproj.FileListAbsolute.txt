@@ -1,0 +1,8 @@
+D:\Documentos\Cursos\Fundamentos de base de datos\Proyecto1\FUNDABASEDATOSPROYECTO1\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\Proyecto1\FUNDABASEDATOSPROYECTO1\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Documentos\Cursos\Fundamentos de base de datos\Proyecto1\FUNDABASEDATOSPROYECTO1\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\Proyecto1\FUNDABASEDATOSPROYECTO1\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Documentos\Cursos\Fundamentos de base de datos\Proyecto1\FUNDABASEDATOSPROYECTO1\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+D:\Documentos\Cursos\Fundamentos de base de datos\Proyecto1\FUNDABASEDATOSPROYECTO1\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\Documentos\Cursos\Fundamentos de base de datos\Proyecto1\FUNDABASEDATOSPROYECTO1\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\Proyecto1\FUNDABASEDATOSPROYECTO1\CapaNegocio\obj\Debug\CapaNegocio.pdb

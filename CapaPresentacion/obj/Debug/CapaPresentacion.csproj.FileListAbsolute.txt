@@ -1,0 +1,13 @@
+D:\Documentos\Cursos\Fundamentos de base de datos\Proyecto1\FUNDABASEDATOSPROYECTO1\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Documentos\Cursos\Fundamentos de base de datos\Proyecto1\FUNDABASEDATOSPROYECTO1\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Documentos\Cursos\Fundamentos de base de datos\Proyecto1\FUNDABASEDATOSPROYECTO1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Documentos\Cursos\Fundamentos de base de datos\Proyecto1\FUNDABASEDATOSPROYECTO1\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\Proyecto1\FUNDABASEDATOSPROYECTO1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\Documentos\Cursos\Fundamentos de base de datos\Proyecto1\FUNDABASEDATOSPROYECTO1\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+D:\Documentos\Cursos\Fundamentos de base de datos\Proyecto1\FUNDABASEDATOSPROYECTO1\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\Documentos\Cursos\Fundamentos de base de datos\Proyecto1\FUNDABASEDATOSPROYECTO1\CapaPresentacion\obj\Debug\CapaPresentacion.Form2.resources
+D:\Documentos\Cursos\Fundamentos de base de datos\Proyecto1\FUNDABASEDATOSPROYECTO1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Documentos\Cursos\Fundamentos de base de datos\Proyecto1\FUNDABASEDATOSPROYECTO1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\Documentos\Cursos\Fundamentos de base de datos\Proyecto1\FUNDABASEDATOSPROYECTO1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Documentos\Cursos\Fundamentos de base de datos\Proyecto1\FUNDABASEDATOSPROYECTO1\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Documentos\Cursos\Fundamentos de base de datos\Proyecto1\FUNDABASEDATOSPROYECTO1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
